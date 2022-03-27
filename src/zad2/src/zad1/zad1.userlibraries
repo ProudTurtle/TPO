@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="C:/Users/DESTIN/Desktop/TPO2_WA_S22477/TPO2_WA_S22477/src/zad1/out/lib/gson-2.9.0.jar" />
+    <archive path="C:/Users/DESTIN/Desktop/TPO2_WA_S22477/TPO2_WA_S22477/src/zad1/out/lib/json-simple-1.1.1.jar" />
+  </library>
+  <library name="lib (2)">
+    <archive path="C:/Users/DESTIN/Desktop/TPO2_WA_S22477/TPO2_WA_S22477/src/zad1/out/lib/gson-2.9.0.jar" />
+    <archive path="C:/Users/DESTIN/Desktop/TPO2_WA_S22477/TPO2_WA_S22477/src/zad1/out/lib/json-simple-1.1.1.jar" />
+  </library>
+  <library name="lib (3)">
+    <archive path="C:/Users/DESTIN/Desktop/TPO2_WA_S22477/TPO2_WA_S22477/src/zad1/out/lib/gson-2.9.0.jar" />
+    <archive path="C:/Users/DESTIN/Desktop/TPO2_WA_S22477/TPO2_WA_S22477/src/zad1/out/lib/json-simple-1.1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+

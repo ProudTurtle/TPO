@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/zad1"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<packagePrefix url="file://$MODULE_DIR$" value="zad1"/>
+	</contentEntry>
+	<levels>
+		<level name="lib (2)" value="project"/>
+	</levels>
+</component>

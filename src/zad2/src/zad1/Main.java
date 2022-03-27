@@ -7,6 +7,8 @@
 package zad1;
 
 
+import javax.swing.*;
+
 public class Main {
   public static void main(String[] args) {
     Service s = new Service("Spain");
@@ -17,7 +19,9 @@ public class Main {
     // część uruchamiająca GUI
 
     System.out.println("Pogoda w wybranym kraju: " + weatherJson);
-    System.out.println("Kurs waluty: " + rate1);
-    System.out.println("Kurs waluty w odniesieniu do PLN: " + rate2);
+    System.out.println("Kurs waluty USD względem PL: " + rate1);
+    System.out.println("Kurs waluty EU w odniesieniu do PLN: " + rate2);
+
+    SwingUtilities.invokeLater(GUI::new);
   }
 }
