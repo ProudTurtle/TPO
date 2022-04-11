@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="snakeyaml-1.26" />
+  <library name="snakeyaml-1.30">
+    <archive path="C:/Users/DESTIN/Desktop/TPO3_WA_S22477/TPO3_WA_S22477/lib/snakeyaml-1.30.jar" />
+  </library>
+</eclipse-userlibraries>
+
